@@ -1,6 +1,6 @@
 {
   "name": "@noclocksdev/eslint-config-noclocks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "No Clocks ESLint Config",
   "main": ".eslintrc.js",
   "scripts": {
