@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: '20.x'
           registry-url: 'https://registry.npmjs.org'
-      - name: ci
-        run: npm ci
+      # - name: ci
+      #   run: npm ci
       - name: publish-npm
         run: npm publish
         env:
@@ -36,8 +36,8 @@ jobs:
           node-version: '20.x'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@noclocks'
-      - name: ci
-        run: npm ci
+      # - name: ci
+      #   run: npm ci
       - name: publish-gh
         run: npm publish
         env:
