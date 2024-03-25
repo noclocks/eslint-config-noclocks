@@ -39,6 +39,6 @@ jobs:
       # - name: ci
       #   run: npm ci
       - name: publish-gh
-        run: npm publish --access=public
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

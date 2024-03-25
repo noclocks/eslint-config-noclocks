@@ -1,5 +1,5 @@
 {
-  "name": "@noclocksdev/eslint-config-noclocks",
+  "name": "@noclocks/eslint-config-noclocks",
   "version": "1.0.3",
   "description": "No Clocks ESLint Config",
   "main": ".eslintrc.js",
@@ -39,5 +39,8 @@
   "bugs": {
     "url": "https://github.com/noclocks/eslint-config-noclocks/issues"
   },
-  "homepage": "https://github.com/noclocks/eslint-config-noclocks#readme"
+  "homepage": "https://github.com/noclocks/eslint-config-noclocks#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
