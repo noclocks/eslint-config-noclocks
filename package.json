@@ -10,7 +10,7 @@
   "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
   "license": "Unlicense",
   "repository": {
-    "url": "https://github.com/noclocks/eslint-config-noclocks.git",
+    "url": "git+https://github.com/noclocks/eslint-config-noclocks.git",
     "type": "git"
   },
   "sideEffects": false,
