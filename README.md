@@ -9,6 +9,8 @@
 
 ![GitHub Tag](https://img.shields.io/github/v/tag/noclocks/eslint-config-noclocks?logo=github&label=GitHub%20Package&labelColor=black)
 
+[![Publish GitHub Package](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/publish-ghpkg.yml/badge.svg)](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/publish-ghpkg.yml)
+
 [![Publish NPM Package](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/publish-npm.yml/badge.svg)](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/publish-npm.yml)
 
 [![Automate Changelog](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/changelog.yml/badge.svg)](https://github.com/noclocks/eslint-config-noclocks/actions/workflows/changelog.yml)
