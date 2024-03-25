@@ -12,11 +12,11 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v4
-      # Setup .npmrc file to publish to npm
       - name: Update package.json
         run: |
           rm package.json
           mv package.github.json package.json
+      # Setup .npmrc file to publish to npm
       - name: setup-node
         uses: actions/setup-node@v4
         with:
@@ -28,4 +28,4 @@ jobs:
       - name: publish-gh
         run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GH_PKG_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
