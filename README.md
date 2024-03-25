@@ -1,6 +1,6 @@
 # eslint-config-noclocks
 
-![NPM Version](https://img.shields.io/npm/v/@noclocksdev/eslint-config-noclocks)
+![NPM Version](https://img.shields.io/npm/v/%40noclocksdev%2Feslint-config-noclocks)
 
 
 ## Installation

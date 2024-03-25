@@ -1,6 +1,6 @@
 {
   "name": "@noclocks/eslint-config-noclocks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "No Clocks ESLint Config",
   "main": ".eslintrc.js",
   "scripts": {
@@ -9,10 +9,7 @@
   "keywords": [],
   "author": "Jimmy Briggs <jimmy.briggs@jimbrig.com> (https://github.com/jimbrig)",
   "license": "Unlicense",
-  "repository": {
-    "url": "git+https://github.com/noclocks/eslint-config-noclocks.git",
-    "type": "git"
-  },
+  "repository": "https://github.com/noclocks/eslint-config-noclocks",
   "sideEffects": false,
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^7.3.1",
