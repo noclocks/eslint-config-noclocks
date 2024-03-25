@@ -4,7 +4,7 @@
 [Keep a Changelog](http://keepachangelog.com/) and this project adheres to
 [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## [1.0.4](https://github.com/noclocks/eslint-config-noclocks/compare/v1.0.3...v1.0.4)- (2024-03-25)
 
 ## Documentation
 
