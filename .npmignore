@@ -1,0 +1,11 @@
+.github/
+.git/
+temp/
+node_modules/
+.editorconfig
+.gitignore
+.gitattributes
+package.github.json
+package.npm.json
+CHANGELOG.md
+pnpm-lock.yaml
