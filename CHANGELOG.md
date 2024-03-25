@@ -4,6 +4,12 @@
 [Keep a Changelog](http://keepachangelog.com/) and this project adheres to
 [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+
+## Documentation
+
+- Readme ([b2c1a25](https://github.com/noclocks/eslint-config-noclocks/commit/b2c1a25b3b5dc017ca9e001c96edffa0a5515230))  - (Jimmy Briggs)
+
 ## [1.0.2](https://github.com/noclocks/eslint-config-noclocks/compare/v1.0.1...v1.0.2)- (2024-03-25)
 
 ## Configuration
