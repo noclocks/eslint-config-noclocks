@@ -6,6 +6,12 @@
 
 ## [Unreleased]
 
+## Configuration
+
+- Remove npm ci ([9999671](https://github.com/noclocks/eslint-config-noclocks/commit/99996718cd8233dbbef8274a0c1b8cbec5757d43))  - (Jimmy Briggs)
+
+## [1.0.1](https://github.com/noclocks/eslint-config-noclocks/tree/v1.0.1)- (2024-03-25)
+
 ## Features
 
 - Add npm pkg ([2289291](https://github.com/noclocks/eslint-config-noclocks/commit/2289291e7fb1e3406cfd2287a03b29674f84a3cd))  - (Jimmy Briggs)
